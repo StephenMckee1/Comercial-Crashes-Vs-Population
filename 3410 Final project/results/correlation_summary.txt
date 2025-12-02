@@ -1,0 +1,6 @@
+Rows analyzed: 10
+X column: pop_pct_change
+Y column: crash_rate_pct_change
+Pearson r = -0.3871, p = 0.2691
+Spearman rho = -0.1879, p = 0.6032
+Linear regression slope = -3.753888, intercept = 7.496443, R^2 = 0.1498
